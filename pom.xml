@@ -192,7 +192,7 @@
         <fast.object.pool.version>2.1.0</fast.object.pool.version>
         <fast.object.pool.disruptor.version>1.2.1</fast.object.pool.disruptor.version>
         <vibur.object.pool.version>22.0</vibur.object.pool.version>
-        <stormpot.version>2.4.1</stormpot.version>
+        <stormpot.version>3.1</stormpot.version>
     </properties>
 
 </project>
